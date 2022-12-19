@@ -24,10 +24,10 @@
 		<img class="card-img-top m-10" style="max-width: 100px" alt="Photo"
 			src="img/notes.png"> <br> <br>
 		<p>
-			<i>Note-taking (sometimes written as notetaking or note taking)
+			<i>Note-taking (sometimes written as note-taking or note taking)
 				is the practice of recording information from different sources and
 				platforms. By taking notes, the writer records the essence of the
-				information, freeing their mind from having to recall everything
+				information,freeing their mind from having to recall everything
 				Notes are commonly drawn from a transient source, such as an oral
 				discussion at a meeting, or a lecture (notes of a meeting are
 				usually called minutes), in which case the notes may be the only
